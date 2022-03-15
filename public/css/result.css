@@ -1,0 +1,26 @@
+#home{
+  font-family: 'Montserrat', sans-serif;
+  height: 100%;
+  width: auto;
+  background-color: #93c47d;
+  padding: 10%;
+  color: white;
+}
+
+.wDesc {
+  color: black;
+  font-size: 2rem;
+}
+
+.temp{
+  font-size: 3rem;
+}
+
+.city-name{
+  color: black;
+  font-size: 4rem;
+}
+
+.degree{
+  color: black;
+}
